@@ -81,5 +81,7 @@
     },
     "registeredAt": "2024-08-14T08:17:17.850Z",
     "registeredBy": "arn:aws:iam::899943265537:user/ctn-cicd-hdon",
+    /* 2024/8/15 19:05 コメントにした
     "tags": []
+    */
 }
