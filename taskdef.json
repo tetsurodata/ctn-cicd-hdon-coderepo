@@ -80,5 +80,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2024-08-14T08:17:17.850Z",
-    "registeredBy": "arn:aws:iam::899943265537:user/ctn-cicd-hdon"
+    "registeredBy": "arn:aws:iam::899943265537:user/ctn-cicd-hdon",
+    "tags": []
 }
